@@ -15003,10 +15003,10 @@ sprintf-js@~1.0.2:
   resolved "https://registry.npmmirror.com/sprintf-js/-/sprintf-js-1.0.3.tgz#04e6926f662895354f3dd015203633b857297e2c"
   integrity sha512-D9cPgkvLlV3t3IzL0D0YLvGA9Ahk4PcvVwUbN0dSGr1aP0Nrt4AEnTUbuGvquEC0mA64Gqt1fzirlRs5ibXx8g==
 
-sql-formatter@^12.0.3:
-  version "12.2.0"
-  resolved "https://registry.npmmirror.com/sql-formatter/-/sql-formatter-12.2.0.tgz#57a86a6ba37e586d85a518d1816d671eca5b7474"
-  integrity sha512-wNsPUdOD6nnN9RUgHlNprQtm+iLW5LTOy/T0/2DDr2UeWSP8mvlQHrx6TY+IG1nfu5Kipq9GaOtS9SVq8s0Vig==
+sql-formatter@^15.9.0:
+  version "15.9.0"
+  resolved "https://registry.npmmirror.com/sql-formatter/-/sql-formatter-15.9.0.tgz#1a1f359aa479d58a84e1fb9b4ba10b11a160111d"
+  integrity sha512-3A/N+v+mA5/PDU+FlO4uTFE0L/Mmg63c/Ny161Qv2b1Mxp9IX8War+LLmq17LA/Kgu4KXAR7iutK2JaHWJMMtw==
   dependencies:
     argparse "^2.0.1"
     nearley "^2.20.1"
