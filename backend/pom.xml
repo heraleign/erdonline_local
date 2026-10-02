@@ -25,7 +25,7 @@
         <!-- 质量基线：核心包行覆盖率门禁（见 jacoco includes） -->
         <jacoco.core.min>0.50</jacoco.core.min>
 
-        <hutool.version>5.8.36</hutool.version>
+        <hutool.version>5.8.47</hutool.version>
         <druid.version>1.2.24</druid.version>
         <mybatis-plus.version>3.5.9</mybatis-plus.version>
         <mysql.connector.version>8.3.0</mysql.connector.version>
