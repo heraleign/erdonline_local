@@ -40,7 +40,7 @@
         <minio.version>8.5.12</minio.version>
         <cos-api.version>5.6.24</cos-api.version>
         <truelicense.version>1.33</truelicense.version>
-        <poi.version>5.2.5</poi.version>
+        <poi.version>5.5.1</poi.version>
         <poi-tl.version>1.12.2</poi-tl.version>
         <velocity.version>2.3</velocity.version>
         <chatgpt-java.version>1.1.5</chatgpt-java.version>
